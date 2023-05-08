@@ -1,0 +1,90 @@
+.background-4 {
+	width: 800px;
+	height: 100%;
+	display: grid;
+	align-items: center;
+	margin: 60px 0;	
+	padding: 30px;
+  border: 2px solid #fff;
+  border-radius: 10px;
+  background-image: url(../Assets/img/background4.webp);
+  background-position: right;
+  background-size: contain;
+  background-repeat: no-repeat;
+};
+
+.divCover1{
+  display:flex;
+  position: relative;
+}
+
+.divCover3{
+  position: absolute;
+  width: 400px;
+  height:400px; 
+  background-image:url("../Assets/img/darksouls3/darkcover.jpg") ;
+  background: cover;
+}
+.titleCover{
+  color: white;
+  position: absolute;
+  fontSize: 20px;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top:400px;
+
+  
+}
+/* .generalDiv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+/* .coverDiv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+} */
+
+/* .background-4 {
+  background-image: url("../Assets/img/background3.jpg");
+  background-size: cover;
+  height: 100px;
+  width: 100px;
+} */
+
+/* .edition  {
+  width: 200px;
+  height: 100%;
+  background-color: gray;
+}
+
+.editionName {
+color: black;
+}
+
+.datos {
+ color: black;
+  width: 50px;
+  height: 50px;
+}
+
+.datos2 {
+ color: black;
+  width: 50px;
+  height: 50px;
+}
+
+.datos3 {
+ color: black;
+  width: 50px;
+  height: 50px;
+}
+
+.buyNow {
+  width: 100px;
+  height: 20px;
+  background-color: white;
+} */ 
